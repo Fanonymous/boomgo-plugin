@@ -25,10 +25,6 @@ boom1.go(3000, function() {
 ---
 
 
-## 示例
-DEMO：https://bupt-hjm.github.io/BoomGo/
->博客地址：http://bupt-hjm.github.io/2016/07/10/boom/
-
 ## 如何使用
 
 >因为图片爆炸时有颤动和缩小效果，所以依赖于`boom.css`，当然你也可以自行定义，或者直接不引入略去这些效果，分别是用到了`begin-shake`和`become-small`两个className
